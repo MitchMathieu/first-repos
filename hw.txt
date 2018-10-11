@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, world! Goodbye, world.
+=======
+Hello, world! What's up?
+>>>>>>> newbranch
